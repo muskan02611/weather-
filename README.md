@@ -1,4 +1,4 @@
-# weather-
+
 # 🌦️ Weather App
 
 A simple and responsive Weather App built using **HTML, CSS, and JavaScript** that provides real-time weather information using the **WeatherAPI**. Users can search for any city and instantly view the current temperature, weather condition, local time, and weather icon.
